@@ -1,0 +1,2 @@
+[tool.dagster]
+python_package = "quickstart_etl"
